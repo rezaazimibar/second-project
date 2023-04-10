@@ -1,0 +1,27 @@
+@import url(./font-css.css);
+body {
+  font-family: vazir;
+}
+.icon {
+  background: lightgray;
+  padding: 0.8rem;
+  border-radius: 1.2rem;
+  display: inline-flex;
+  color: rgb(30, 95, 214);
+}
+.card-primary {
+  background-color: rgb(33, 33, 107);
+  color: rgb(255, 255, 255);
+}
+.bg-main {
+  background-color: #182067;
+}
+.hr {
+  border-top: 1px solid rgb(0, 0, 0);
+}
+ ul ,li{
+  margin:0;
+  padding: 0;
+  text-indent: 0;
+  list-style-type: none;
+}

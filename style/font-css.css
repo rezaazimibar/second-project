@@ -1,0 +1,28 @@
+@font-face {
+  font-family: vazir;
+  font-style: normal;
+  font-weight: 400;
+  src: url(../font/Vazir-Regular.eot);
+  src: url(../font/Vazir-Regular.woff2) format("woff2"),
+    url(../font/Vazir-Regular.ttf) format("ttf"),
+    url(../font/Vazir-Regular.woff) format("woff");
+}
+@font-face {
+  font-family: vazir;
+  font-style: bold;
+  font-weight: 800;
+  src: url(../font/Vazir-Bold.eot);
+  src: url(../font/Vazir-Bold.woff2) format("woff2"),
+    url(../font/Vazir-Bold.ttf) format("ttf"),
+    url(../font/Vazir-Bold.woff) format("woff");
+}
+@font-face {
+  font-family: vazir;
+  font-style: thin;
+  font-weight: 100;
+  src: url(../font/Vazir-Thin.eot);
+  src: url(../font/Vazir-Thin.woff2) format("woff2"),
+    url(../font/Vazir-Thin.ttf) format("ttf"),
+    url(../font/Vazir-Thin.woff) format("woff");
+}
+
